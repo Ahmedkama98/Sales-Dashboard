@@ -1,6 +1,8 @@
 # Sales-Dashboard
 
 ## Project overview
+![sales dashboard screen](https://github.com/Ahmedkama98/Sales-Dashboard/assets/73551238/4e7533b5-5721-491b-a181-bfd09af864dc)
+
 The objective of the report is to analyze and present comprehensive insights into sales, profit, orders, profit margin, and various comparisons. It aims to provide a clear understanding of key performance indicators and trends using Power BI. The report objectives can be summarized as follows:
 
 - Calculate Total Sales: Calculate and display the total sales value for the selected period, allowing users to understand the overall revenue generated.
